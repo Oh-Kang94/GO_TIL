@@ -1,3 +1,6 @@
 [submodule "Go-Language"]
 	path = Go-Language
 	url = https://github.com/Oh-Kang94/Go-Language
+[submodule "web_basic"]
+	path = web_basic
+	url = https://github.com/Oh-Kang94/GO-WEB-BASIC
