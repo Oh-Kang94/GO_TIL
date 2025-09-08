@@ -41,9 +41,8 @@ export PATH=$PATH:$GOPATH/bin
 ```
 
 # 3. Go Package 설치
-
-원래는 go get ~~~ 이였는데, 
-이제는 `go install ~~~@Version` 이런식의 형태이다. 
+꼭 mod init 을 한 후에
+`go get urlRoute@Version` 로 쓰면 됨. 
 ## 1. Go Doc 설치
 ex)
 ```zsh
