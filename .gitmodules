@@ -4,3 +4,6 @@
 [submodule "web_basic"]
 	path = web_basic
 	url = https://github.com/Oh-Kang94/GO-WEB-BASIC
+[submodule "web_chat"]
+	path = web_chat
+	url = https://github.com/Oh-Kang94/GO-WEB-CHAT
